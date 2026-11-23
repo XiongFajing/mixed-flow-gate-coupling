@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using this code."
+title: "Gate-boundary coupling in partitioned mixed-flow models: Numerical oscillations and implicit correction"
+type: software
+authors:
+  - family-names: Xiong
+    given-names: Fajing
+  - family-names: Guan
+    given-names: Guanghua
+  - family-names: Mao
+    given-names: Zhonghao
+  - family-names: Liu
+    given-names: Wangjiayi
+  - family-names: Li
+    given-names: Yunling
+  - family-names: Wu
+    given-names: Yongyan
+  - family-names: Yao
+    given-names: Xiong
+date-released: 2026-11-23
