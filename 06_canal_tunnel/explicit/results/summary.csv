@@ -1,0 +1,2 @@
+Method,Status,Cr,Dx_m,NominalDt_s,PlannedTime_s,EndTime_s,CompletedSteps,InitializationTime_s,SolverTime_s,LoopTime_s,ExportTime_s,TotalEvaluations,TotalIterations,NewtonSteps,Message
+显式边界,正常完成,0.5,100,0.513641400498887,43200,43200,84106,0.0979248000000439,462.711935799999,463.606189,0.8008624,84106,0,0,
