@@ -1,0 +1,2 @@
+Method,Status,EndTime_s,NominalDt_s,CompletedSteps,MeanEvaluations,MaxEvaluations,FormalTime_s,Message
+R1,failed,8.42885946685848,0.00559313833235466,1509,21.6812458581842,72,12.293867,Picard did not converge in 500 evaluations; residual 1.58042168e-05 m^3/s.
